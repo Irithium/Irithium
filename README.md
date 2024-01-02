@@ -3,6 +3,14 @@
 ## About me
 I am a Full Stack developer, passionate about technology, video games, and music. My curious nature and constant desire to learn have led me to explore the exciting field of information technology. Undoubtedly, one of the most motivating experiences was my approach to code. I am always looking for ways to improve and learn more about the latest technologies and trends in the world of web development.
 
+## What do I do?
+Currently, I work on projects that allow me to advance my skills as a programmer. I am fascinated by the ability to solve life’s problems with code.
+
+## Where am I headed?
+My main goal is to impact the world with code 🎆.
+
+I don’t just enjoy programming because of the high demand in the market, but because it truly excites me to broaden my perspective of the things that exist in the world and find new solutions to problems we thought were already solved.
+
 ## Habilidades
 
 #### Full Stack Web Developer
@@ -35,5 +43,7 @@ I am a Full Stack developer, passionate about technology, video games, and music
 Puedes saber más sobre mí visitando mi página web:
 - 🌐 [Frank-developer.netlify.app](https://santiago-developer.netlify.app/)
 
-## Contact 
-- 📫 [LinkedIn](https://www.linkedin.com/in/frananyel-vidal).
+## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
+- LinkedIn: [Frananyel Vidal](https://www.linkedin.com/in/frananyel-vidal)
+- Number:  (+58) 0414-808-7348
+- Email: frananyelvidal@gmail.com
