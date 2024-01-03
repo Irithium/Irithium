@@ -40,9 +40,6 @@ I don’t just enjoy programming because of the high demand in the market, but b
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge)
 
-Puedes saber más sobre mí visitando mi página web:
-- 🌐 [Frank-developer.netlify.app](https://santiago-developer.netlify.app/)
-
 ## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
 - LinkedIn: [Frananyel Vidal](https://www.linkedin.com/in/frananyel-vidal)
 - Number:  (+58) 0414-808-7348
